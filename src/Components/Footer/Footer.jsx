@@ -19,7 +19,7 @@ export default function Footer(){
      <div className="row">
                        
                          <p> <span className="fw-bold"> Email:</span> hatem6616@gmail.com</p>
-                         <p> <span className="fw-bold"> Phone:</span> (+2)01552549558 </p>
+                         <p> <span className="fw-bold"> Phone:</span>#3 (+2)01552549558 </p>
 
                          </div>
 <div className="row">
